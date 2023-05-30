@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="gesturecontrol_ros_laptop" type="gestureControlRos.py" name="gesturecontrol_laptop_node" output="screen">
+  </node>
+</launch>
